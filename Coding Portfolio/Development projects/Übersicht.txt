@@ -1,0 +1,5 @@
+FormTrader Java -> IB
+
+Matlab -> simu Lo 2000
+
+ToDo: Python VMA
