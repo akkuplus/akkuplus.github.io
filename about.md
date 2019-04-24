@@ -19,10 +19,8 @@ layout: page
 
 <div class="example-class">
 <h2>Projects</h2>
-#
-# <ul>
-#	<li><a href="https://github.com/">Lorem Lorem</a></li>
-#	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-#	<li><a href="https://github.com/">Dolor Lorem</a></li>
-# </ul>
+
+<ul>
+	<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/66529-automatic-pattern-recognition-of-head-and-shoulder">Automatic pattern recognition of Head-And-Shoulder</a></li>
+</ul>
 <!-- /.example-class -->
