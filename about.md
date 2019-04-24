@@ -17,7 +17,7 @@ layout: page
 	<li>Git</li>
 </ul>
 
-<!-- 
+<div class="example-class">
 <h2>Projects</h2>
 #
 # <ul>
@@ -25,4 +25,4 @@ layout: page
 #	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 #	<li><a href="https://github.com/">Dolor Lorem</a></li>
 # </ul>
--->
+<!-- /.example-class -->
